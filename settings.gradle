@@ -1,0 +1,5 @@
+rootProject.name = 'PackNPlug'
+include 'core'
+include 'SpigotPlugin'
+include 'PackageServer'
+
